@@ -17,3 +17,4 @@ public class Controller {
 		this.view.displayMessage(this.model.getHelloWorld());
 	}
 }
+
